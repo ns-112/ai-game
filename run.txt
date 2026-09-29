@@ -1,0 +1,6 @@
+originally, the game used api keys i had created to generate textures and biomes and all in real time
+but that took way too long, so ive removed those from the build and instead
+included a cache of everything so it should run pretty fast.
+the game is infinite and has no real end
+
+to run just open the game
